@@ -28,13 +28,17 @@
 
 ### * 제작 과정
 1. 서보모터 및 로드셀 무게 센서 테스트
+
+<img src="https://github.com/user-attachments/assets/2bc9d8c5-c53b-46fb-bd70-956437885a5b" width=300></img>
+
 2. 
+
 
 #### * 외주 제작 물품 및 3D 출력물 
 | 물품명 | 이미지 |
 | :--: | :--:| 
-| 레일 | |
-| 카메라 기둥 | |
+| 레일 |<img src="https://github.com/user-attachments/assets/9f8db963-4295-4844-a26f-54ac8a95ab24" width="100" height="100" /> |
+| 카메라 기둥 |<img src="KakaoTalk_20250930_225040434_01](https://github.com/user-attachments/assets/f36533e6-ef94-43be-acd4-f21c9c1475ec" width="100" height="100" /> |
 | 개폐 장치 | | 
 | 지지 다리/4개 | |
 | 서보모터 지지대/3개 | | 
