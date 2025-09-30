@@ -40,8 +40,8 @@
 | 레일 |<img src="https://github.com/user-attachments/assets/9f8db963-4295-4844-a26f-54ac8a95ab24" width="100" height="100" /> |
 | 카메라 기둥 |<img src="KakaoTalk_20250930_225040434_01](https://github.com/user-attachments/assets/f36533e6-ef94-43be-acd4-f21c9c1475ec" width="100" height="100" /> |
 | 개폐 장치 | | 
-| 지지 다리/4개 | |
-| 서보모터 지지대/3개 | | 
+| 지지 다리/4개 |<img src="KakaoTalk_20250930_225040434_11](https://github.com/user-attachments/assets/e8eda9b8-6cf9-417d-a223-bea0758cc267" width="100" height="100" /> |
+| 서보모터 지지대/3개 | <img src="KakaoTalk_20250930_223546265_18](https://github.com/user-attachments/assets/b0a5b18e-7cf2-48ed-9e41-d3149904bafd" width="100" height="100" />| 
 
 
 > ## 소프트웨어
